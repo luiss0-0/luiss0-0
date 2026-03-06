@@ -40,3 +40,11 @@ Faculty of Pharmaceutical Sciences, University of São Paulo (USP).
   </a>
 </p>
 
+</div>
+
+## 📫 Contact
+
+<a href="mailto:luissouzaespinosa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-luissouzaespinosa@gmail.com-red?logo=gmail&logoColor=white"/>
+</a>
+
