@@ -20,11 +20,23 @@ Faculty of Pharmaceutical Sciences, University of São Paulo (USP).
 ## ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dask/dask-original.svg" height="50" alt="Dask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="50" alt="Plotly"/>
+  <a href="https://www.python.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+  </a>
+  <a href="https://scikit-learn.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-learn"/>
+  </a>
+  <a href="https://pandas.pydata.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
+  </a>
+  <a href="https://jupyter.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter"/>
+  </a>
+  <a href="https://www.dask.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dask/dask-original.svg" height="50" alt="Dask"/>
+  </a>
+  <a href="https://plotly.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="50" alt="Plotly"/>
+  </a>
 </p>
 
