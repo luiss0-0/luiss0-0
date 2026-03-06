@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, i'm Luis Espinosa</h1>
+<h1>Hello! I'm Luís :)</h1>
 
 <b>Data Scientist at healthcare | B.Sc. in Biological Sciences</b><br>
 PhD candidate at the Computer Systems Biology Laboratory (CSBL), INOVA USP,  
@@ -9,3 +9,22 @@ Faculty of Pharmaceutical Sciences, University of São Paulo (USP).
 </div>
 
 ## About me
+
+- 🧬 Direct PhD student in the Postgraduate Program in Physiopathology at the Faculty of Pharmaceutical Sciences, University of São Paulo (FCF-USP).
+- 🔬 Conducting research in bioinformatics applied to precision medicine.
+- 🤖 Developing machine learning models for prediction of chronic diseases and related conditions.
+- 🌍 Associate Researcher – Caipora Project: Worked with satellite data analysis applied to landscape epidemiology studies
+
+</div>
+
+## ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dask/dask-original.svg" height="40" alt="Dask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly"/>
+</p>
+
