@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hello!%20I'm%20Lu%C3%ADs%20%F0%9F%A7%AC&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Bioinformatics%20%E2%80%A2%20Precision%20Medicine&descAlignY=60&descSize=17&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hello!%20I'm%20Lu%C3%ADs%20%F0%9F%A7%AC&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20LLMs%20for%20Health%20%E2%80%A2%20Bioinformatics%20%E2%80%A2%20Precision%20Medicine&descAlignY=60&descSize=17&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/luiss0-0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9FB5&center=true&vCenter=true&width=600&lines=PhD+candidate+%40+CSBL+%E2%80%A2+INOVA+USP;Machine+learning+for+chronic+diseases;Bioinformatics+applied+to+precision+medicine;Satellite+data+%2B+landscape+epidemiology" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9FB5&center=true&vCenter=true&width=600&lines=PhD+candidate+%40+CSBL+%E2%80%A2+INOVA+USP;LLMs+applied+to+healthcare;Non-autoregressive+language+models;Machine+learning+for+chronic+diseases;Bioinformatics+applied+to+precision+medicine;Satellite+data+%2B+landscape+epidemiology" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -24,6 +24,7 @@ I'm a **PhD candidate** at the **Computer Systems Biology Laboratory (CSBL)**, I
 
 - 🧬 Direct PhD student in the Postgraduate Program in **Physiopathology** at FCF-USP
 - 🔬 Researching **bioinformatics applied to precision medicine**
+- 🧠 Working with **LLMs applied to healthcare**, including **non-autoregressive language models**
 - 🤖 Building **machine learning models** to predict chronic diseases and related conditions
 - 🌍 Associate Researcher at the **Caipora Project** — satellite data analysis for **landscape epidemiology**
 
